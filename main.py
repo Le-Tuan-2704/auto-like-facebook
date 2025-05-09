@@ -13,7 +13,7 @@ def extract_links(text):
 
 def process_links(driver, links, comments, isComment=False):
     driver.get("https://www.facebook.com")
-    time.sleep(15)
+    time.sleep(25)
     for link in links:
         try:
             driver.get(link)

@@ -1,7 +1,7 @@
 # Auto click like
 Tự động click nút like dựa vào danh sách có sẵn trong file txt
 
-## _Yêu cầu bắt buộc: Máy tính có cài đặt Google Chrome và đã đăng nhập Facebook trên Chrome_
+## _Yêu cầu bắt buộc: Máy tính có cài đặt Firefox, mỗi lần chạy tool cần đăng nhập lại tài khoản facebook
 
 ## Cài đặt
 
